@@ -26,7 +26,7 @@ This Python script generates a variety of password combinations based on user-pr
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/PasswordGenerator.git
+    git clone https://github.com/mxnuhyde/PasswordGenerator.git
     ```
 
 2. Install the required Python libraries:
